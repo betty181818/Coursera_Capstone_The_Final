@@ -1,0 +1,113 @@
+Name_cad,Cluster,geometry,The largest density is of:,The second largest selection is of:,A third is big number of:,A fourth is medium number of:,And fifth an average size of:
+Stodůlky,G11,POINT (50.0483074 14.3124035),Specialized_stores,Groceries,Quick_meals/snacks,Transportation,Public_transp_stops
+Žižkov,G4,POINT (50.0810541 14.4549172),Pubs_Bars,Quick_meals/snacks,Cafés,Groceries,Restaurants
+Chodov,G16,POINT (50.0328428 14.5016433),Specialized_stores,Public_transp_stops,Quick_meals/snacks,Pubs_Bars,Transportation
+Vinohrady,G4,POINT (50.0753593 14.4363944),Pubs_Bars,Quick_meals/snacks,Cafés,Groceries,Restaurants
+Vršovice,G16,POINT (50.0718847 14.4726647),Specialized_stores,Public_transp_stops,Quick_meals/snacks,Pubs_Bars,Transportation
+Holešovice,G4,POINT (50.1006155 14.437384),Pubs_Bars,Quick_meals/snacks,Cafés,Groceries,Restaurants
+Strašnice,G12,POINT (50.0698126 14.4979743),Public_transp_stops,Groceries,Parks,Restaurants,Pubs_Bars
+Záběhlice,G16,POINT (50.0572818 14.5013488),Specialized_stores,Public_transp_stops,Quick_meals/snacks,Pubs_Bars,Transportation
+Smíchov,G1,POINT (50.07494639999999 14.4048437),Groceries,Pubs_Bars,Cafés,Public_transp_stops,Parks
+Libeň,G7,POINT (50.1061031 14.4766262),Sport_activeLeisure,Quick_meals/snacks,Public_transp_stops,Restaurants,Pubs_Bars
+Modřany,G16,POINT (50.0098058 14.4069894),Specialized_stores,Public_transp_stops,Quick_meals/snacks,Pubs_Bars,Transportation
+Nusle,G5,POINT (50.0565301 14.442035),Quick_meals/snacks,Restaurants,Specialized_stores,Clothing_store,Groceries
+Krč,G5,POINT (50.041123 14.4476212),Quick_meals/snacks,Restaurants,Specialized_stores,Clothing_store,Groceries
+Kobylisy,G12,POINT (50.1295458 14.4548578),Public_transp_stops,Groceries,Parks,Restaurants,Pubs_Bars
+Nové Město,G10,POINT (50.0759376 14.4199464),Recycling_waste_bins,Public_transp_stops,Restaurants,Pubs_Bars,Cafés
+Řepy,G14,POINT (50.0710617 14.3002613),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Černý Most,G14,POINT (50.1054492 14.5656936),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Břevnov,G12,POINT (50.08520900000001 14.3717877),Public_transp_stops,Groceries,Parks,Restaurants,Pubs_Bars
+Háje,G14,POINT (50.0350744 14.5244148),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Dejvice,G1,POINT (50.1025555 14.391797),Groceries,Pubs_Bars,Cafés,Public_transp_stops,Parks
+Hlubočepy,G14,POINT (50.0416665 14.3956321),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Bubeneč,G4,POINT (50.1029815 14.4028315),Pubs_Bars,Quick_meals/snacks,Cafés,Groceries,Restaurants
+Michle,G5,POINT (50.04855379999999 14.4598009),Quick_meals/snacks,Restaurants,Specialized_stores,Clothing_store,Groceries
+Kamýk,G9,POINT (50.0152642 14.4381341),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Letňany,G16,POINT (50.136969 14.5148858),Specialized_stores,Public_transp_stops,Quick_meals/snacks,Pubs_Bars,Transportation
+Braník,G3,POINT (50.0357275 14.4127165),Transportation,Parks,Quick_meals/snacks,Specialized_stores,Cafés
+Hostivař,G12,POINT (50.04828629999999 14.5243139),Public_transp_stops,Groceries,Parks,Restaurants,Pubs_Bars
+Prosek,G14,POINT (50.1182056 14.4935861),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Bohnice,G3,POINT (50.1336204 14.415971),Transportation,Parks,Quick_meals/snacks,Specialized_stores,Cafés
+Vysočany,G5,POINT (50.1096718 14.4998979),Quick_meals/snacks,Restaurants,Specialized_stores,Clothing_store,Groceries
+Horní Počernice,G14,POINT (50.1162631 14.6208058),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Košíře,G14,POINT (50.0670831 14.362062),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Troja,G13,POINT (50.1174536 14.4234416),Leisure_fun_act.,Transportation,Parks,Pubs_Bars,Sport_activeLeisure
+Střížkov,G8,POINT (50.1243718 14.484508),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Horní Měcholupy,G2,POINT (50.0439798 14.5575532),Transportation,Groceries,Quick_meals/snacks,Restaurants,Other_serv.
+Podolí,G3,POINT (50.05731770000001 14.4207856),Transportation,Parks,Quick_meals/snacks,Specialized_stores,Cafés
+Hloubětín,G14,POINT (50.10505300000001 14.5403829),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Vokovice,G8,POINT (50.0987345 14.3446401),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Újezd nad Lesy,G2,POINT (50.0757517 14.6593589),Transportation,Groceries,Quick_meals/snacks,Restaurants,Other_serv.
+Karlín,G4,POINT (50.09208710000001 14.4476672),Pubs_Bars,Quick_meals/snacks,Cafés,Groceries,Restaurants
+Malešice,G12,POINT (50.0823383 14.4986466),Public_transp_stops,Groceries,Parks,Restaurants,Pubs_Bars
+Zbraslav,G14,POINT (49.9759867 14.3934479),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Kunratice,G6,POINT (50.0133421 14.4835699),Restaurants,Groceries,Specialized_stores,Transportation,Pubs_Bars
+Staré Město,G4,POINT (50.0842845 14.4178391),Pubs_Bars,Quick_meals/snacks,Cafés,Groceries,Restaurants
+Kyje,G2,POINT (50.0934711 14.5428312),Transportation,Groceries,Quick_meals/snacks,Restaurants,Other_serv.
+Radotín,G8,POINT (49.9858606 14.3655733),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Uhříněves,G14,POINT (50.0343893 14.5911741),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Čakovice,G2,POINT (50.15309329999999 14.5287249),Transportation,Groceries,Quick_meals/snacks,Restaurants,Other_serv.
+Ruzyně,G14,POINT (50.0915435 14.3028035),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Kbely,G14,POINT (50.1332847 14.549187),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Čimice,G8,POINT (50.14061450000001 14.4300955),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Střešovice,G14,POINT (50.0915603 14.3805053),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Suchdol,G2,POINT (50.135806 14.3804611),Transportation,Groceries,Quick_meals/snacks,Restaurants,Other_serv.
+Veleslavín,G8,POINT (50.0934913 14.3502202),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Lhotka,G9,POINT (50.0229255 14.4402767),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Petrovice,G8,POINT (50.0366935 14.5576336),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Libuš,G9,POINT (50.0063807 14.4634572),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Jinonice,G3,POINT (50.055346 14.364546),Transportation,Parks,Quick_meals/snacks,Specialized_stores,Cafés
+Zličín,G15,POINT (50.0607092 14.2915434),Specialized_stores,Clothing_store,Transportation,Groceries,Quick_meals/snacks
+Malá Strana,G1,POINT (50.0874027 14.4069171),Groceries,Pubs_Bars,Cafés,Public_transp_stops,Parks
+Liboc,G3,POINT (50.0870687 14.3292912),Transportation,Parks,Quick_meals/snacks,Specialized_stores,Cafés
+Písnice,G9,POINT (49.9935526 14.4673859),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Vinoř,G14,POINT (50.1437325 14.5782464),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Dolní Chabry,G2,POINT (50.145417 14.4490923),Transportation,Groceries,Quick_meals/snacks,Restaurants,Other_serv.
+Řeporyje,G9,POINT (50.0323364 14.3114667),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Dubeč,G8,POINT (50.0615529 14.590674),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Ďáblice,G9,POINT (50.14523920000001 14.4821593),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Motol,G9,POINT (50.0705146 14.3446321),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Hodkovičky,G8,POINT (50.02321989999999 14.4039242),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Klánovice,G2,POINT (50.0960067 14.6697168),Transportation,Groceries,Quick_meals/snacks,Restaurants,Other_serv.
+Nebušice,G8,POINT (50.11111270000001 14.3304624),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Kolovraty,G8,POINT (50.012091 14.6261751),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Šeberov,G8,POINT (50.0132338 14.5136372),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Slivenec,G8,POINT (50.020125 14.3581131),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Újezd u Průhonic,G9,POINT (50.01288779999999 14.5463418),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Lipence,G8,POINT (49.9592549 14.3678215),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Dolní Měcholupy,G2,POINT (50.0590584 14.5591003),Transportation,Groceries,Quick_meals/snacks,Restaurants,Other_serv.
+Běchovice,G8,POINT (50.0812104 14.6160257),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Hostavice,G8,POINT (50.09024489999999 14.5634595),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Satalice,G8,POINT (50.1255484 14.5717874),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Dolní Počernice,G14,POINT (50.0858859 14.5757301),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Velká Chuchle,G2,POINT (50.0113286 14.3849521),Transportation,Groceries,Quick_meals/snacks,Restaurants,Other_serv.
+Štěrboholy,G14,POINT (50.0721243 14.5530604),Transportation,Specialized_stores,Public_transp_stops,Parks,Restaurants
+Vyšehrad,G9,POINT (50.06442329999999 14.4173861),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Komořany,G8,POINT (49.9881831 14.4087955),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Hradčany,G1,POINT (50.0896727 14.3978032),Groceries,Pubs_Bars,Cafés,Public_transp_stops,Parks
+Radlice,G8,POINT (50.0583907 14.3886116),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Miškovice,G9,POINT (50.15625429999999 14.5425652),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Hrdlořezy,G9,POINT (50.092937 14.5090893),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Koloděje,G9,POINT (50.0621519 14.6384615),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Lysolaje,G8,POINT (50.1247487 14.381393),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Březiněves,G9,POINT (50.1649365 14.4838478),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Pitkovice,G9,POINT (50.020712 14.5793086),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Josefov,G9,POINT (50.0900187 14.4180229),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Třeboradice,G8,POINT (50.1625233 14.5238902),Transportation,Groceries,Sport_activeLeisure,Pubs_Bars,Public_transp_stops
+Křeslice,G9,POINT (50.0232038 14.5647024),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Sedlec,G9,POINT (50.133282 14.393032),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Točná,G9,POINT (49.9720961 14.431421),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Přední Kopanina,G9,POINT (50.1173392 14.2963761),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Lochkov,G9,POINT (50.0025105 14.3536669),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Cholupice,G9,POINT (49.9876531 14.4474068),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Benice,G9,POINT (50.0129602 14.6048741),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Hájek u Uhříněvsi,G9,POINT (50.05191445 14.6229911275698),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Sobín,G9,POINT (50.06562570000001 14.2665593),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Holyně,G9,POINT (50.0294227 14.356167),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Třebonice,G16,POINT (50.0450967 14.2811162),Specialized_stores,Public_transp_stops,Quick_meals/snacks,Pubs_Bars,Transportation
+Královice,G9,POINT (50.0383618 14.6361708),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Lahovice,G9,POINT (49.988587 14.3973358),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Nedvězí u Říčan,G9,POINT (50.0164669 14.6538068912756),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Lipany,G9,POINT (49.99954570000001 14.6175389),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Malá Chuchle,G9,POINT (50.0261365 14.3936339),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
+Zadní Kopanina,G9,POINT (50.0064521 14.3122061),Transportation,Specialized_stores,Public_transp_stops,Leisure_fun_act.,Sport_activeLeisure
